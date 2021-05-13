@@ -4,14 +4,13 @@ PyTorch Code for the paper at ICLR2020:
 
 
 **Experiments**
+cifar-10 or cifar-100 dataset need to be download first, and rename the document as 'cifar-10' or 'cifar-100'.
 
-Run the dataloader_cifar.ipynb file experiment directly in jupyter Notebook.
+Experiment in dataloader_cifar.ipynb file in jupyter Notebook.
 
 or
 
-First, please create a folder named *checkpoint* to store the results.
-`mkdir checkpoint`
-Next, run 
+Run 
 `python Train_cifar.py --data_path --dataset` 
 
 
