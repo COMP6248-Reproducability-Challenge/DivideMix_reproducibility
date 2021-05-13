@@ -16,7 +16,7 @@ Next, run
 
 
 
-We also have made some changes for cifar-10:
+We also have made some changes for cifar-10 and cifar-100:
 
 `python Train_cifar_refinement_for_low_noise.py ` 
 
