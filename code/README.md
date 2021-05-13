@@ -4,7 +4,8 @@ PyTorch Code for the paper at ICLR2020:
 
 
 **Experiments**
-cifar-10 or cifar-100 dataset need to be download first, and rename the document as 'cifar-10' or 'cifar-100'.
+
+cifar-10 or cifar-100 dataset need to be downloaded first, and rename the document as 'cifar-10' or 'cifar-100'.
 
 Experiment in dataloader_cifar.ipynb file in jupyter Notebook.
 
